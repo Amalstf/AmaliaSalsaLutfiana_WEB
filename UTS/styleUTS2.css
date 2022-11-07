@@ -1,0 +1,214 @@
+html{
+    background-color: whitesmoke;
+}
+.sticky{
+    position: fixed;
+    top: 0;
+    background-color: whitesmoke;
+    height: 100px;
+    width: 1515px;
+    padding-right: -1100px;
+}
+.menu1{
+    display: inline-block;
+    font-size: 15pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 20px;
+    padding-top: 1%;
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 50px;
+    }
+    .menu1 a{
+        color: rgb(29, 70, 43);
+    }
+.menuAll{
+        margin-left: 700px;
+        margin-top: -70px;
+    }
+.logo{
+        height: 70px;
+        padding-left: 20px;
+        padding-bottom: 13px;
+    }
+.garis2{
+        position: static;
+        border: 3px solid rgb(29, 70, 43);
+    }
+.foto1{
+        height : 600px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 20px;
+    }
+.foto2{
+    height: 60px;
+    padding-left: 600px;
+}
+.top{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding-left: 350px;
+}
+.foto3{
+    height: 400px;
+    margin-left: 80px;
+    border-radius: 20px;
+}
+.isiKiri{
+    font-size: 15pt;
+    font-family: monospace;
+    margin-left: 200px;
+    margin-top: -20px;
+    position: absolute;
+
+}
+.isiKiri a{
+    color: black;
+}
+.foto4{
+    height: 400px;
+    margin-left: 120px;
+    margin-top: -1200px;
+    border-radius: 20px;
+    margin-bottom: 1px;
+}
+.isiTengah{
+    font-size: 15pt;
+    font-family: monospace;
+    margin-left: 610px;
+    margin-top: -20px;
+    position: absolute;
+}
+.isiTengah a{
+    color: black;
+}
+.foto5{
+    height: 400px;
+    margin-left: 925px;
+    margin-top: -1200px;
+    border-radius: 20px;
+    margin-bottom: 19px;
+}
+.isiKanan{
+    font-size: 15pt;
+    font-family: monospace;
+    margin-left: 1050px;
+    margin-top: -20px;
+    position: absolute;
+}
+.isiKanan a{
+    color: black;
+}
+
+.foto6{
+    height: 400px;
+    margin-left: 250px;
+    border-radius: 20px;
+}
+.isiNctu{
+    font-size: 15pt;
+    font-family: monospace;
+    padding-left: 615px;
+}
+.isiNctu a{
+    color: black;
+}
+article{
+    height: 500px;
+    width: 1033px;
+    margin-left: 122px;
+    background-color: white;
+    border-radius: 20px;
+}
+iframe{
+    width: 500px;
+    height: 280px;
+    border-radius: 20px;
+    margin-left:50px;
+    margin-top: -150px;
+}
+.top2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    padding-left: 400px;
+}
+.isiProject{
+   font-family: monospace;
+   font-size: 15px;
+   padding-left: 650px;
+   padding-right: 30px;
+   display: inline-block;
+   padding-top: 150px;
+}
+.isiKwangya{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13pt;
+    padding-left: 160px;
+    padding-right: 550px;
+    position: absolute;
+	top: 2600px;
+	color: whitesmoke;
+    
+}
+.foto7{
+    height: 300px;
+    margin-left: 200px;
+    border-radius: 20px;
+}
+.isiLeader{
+    font-family: monospace;
+    font-size: 13pt;
+    padding-left: 100px;
+    position: absolute;
+    margin-top: 30px;
+	color: black;
+}
+.kotak1{
+    background-color: rgb(29, 70, 43);
+    width: 27px;
+    height: 35px;
+    display: inline-block;
+    font-size: 15pt;
+    font-family: monospace;
+    padding-left: 18px;
+    padding-top: 1%;
+    margin-left: 15px;
+    border-radius: 100px;
+    transition: .5s ease;
+    margin-left: 10px;
+    }
+.kotak1 a{
+    text-decoration: none;
+            color: whitesmoke;
+}
+.kotak1:hover{
+    transform: scale(1.2);
+    transition: all .3 ease;
+}
+    .a{
+        text-decoration: none;
+            color: whitesmoke;
+    }
+footer{
+    background-color: rgb(29, 70, 43) ;
+    height: 120px;
+}
+.sm{
+    font-size: 15pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    padding-top: 20px;
+    transition: .5s ease;
+    }
+    .sm a :hover{
+        transform: scale(1.2);
+        transition: all .3 ease;
+    }
+    .sm :hover{
+        transform: scale(1.2);
+        transition: all .3 ease;
+        color: black;
+    }
